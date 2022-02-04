@@ -1,3 +1,7 @@
+Name: ***
+ID: ****
+Class: ***
+
 Instructions to setup project
 eg, 
 MySQL
